@@ -10,7 +10,11 @@ Transferências: Permite a transferência de valores entre contas, com validaç�
 Pagamentos: Possibilita o pagamento de contas, boletos e outros tipos de pagamentos, com integração com sistemas de terceiros, se necessário.</br>
 Extratos: Permite a consulta de extratos bancários, com informações detalhadas sobre transações, saldos e outros dados relevantes.</br>
 Segurança: Implementa mecanismos de segurança robustos, como autenticação, autorização e proteção contra vulnerabilidades comuns.</br>
+</br>
+</br>
 Tecnologias Utilizadas</br>
+</br>
+
 Java: Linguagem de programação principal.</br>
 Spring Boot: Framework para desenvolvimento da API.</br>
 Spring Data JPA: Facilita o acesso ao banco de dados.</br>
